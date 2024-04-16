@@ -9,7 +9,7 @@ Kaggle ([available from Kaggle](https://doi.org/10.34740/kaggle/dsv/3122958))
 
 ## Research Objectives
 
-1. Develop neural network models leveraging a dataset of medical chest X-rays, categorized into three classes: Covid-19 cases, non-Covid chest infections (bacterial or viral pneumonia), and cases with no lung infection.
+1. Develop ANN neural network models leveraging a dataset of medical chest X-rays, categorised into three classes: Covid-19 cases, non-Covid chest infections (bacterial or viral pneumonia), and cases with no lung infection.
 2. Investigate the different behavior of models on both seen and unseen data to discern their performance variations.
 3. Investigate how different hyperparameters can affect a model’s performance.
 
