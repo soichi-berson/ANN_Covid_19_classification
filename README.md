@@ -1,4 +1,4 @@
-# ANN Covid 19 Classification
+# ANN (Covid 19 Classification)
 Experiments of ANN using datasets of medical chest X-rays.
 
 ## Introduction
